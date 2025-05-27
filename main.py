@@ -5,3 +5,4 @@ if __name__ == '__main__':
     b = 10
 
     print (sum(a, b))
+    print(sub(a, b))
